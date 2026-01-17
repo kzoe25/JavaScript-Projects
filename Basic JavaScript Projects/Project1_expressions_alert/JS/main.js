@@ -6,3 +6,4 @@ document.write("\"Be who you are and say what you feel,"+"because tho who mind d
 
 var X = "This is a" +  " string"
 document.write(X)
+
