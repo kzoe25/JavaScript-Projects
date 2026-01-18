@@ -1,0 +1,11 @@
+.myBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    border: 2px solid #000;
+    border-radius: 6px;
+}
